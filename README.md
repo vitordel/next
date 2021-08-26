@@ -9,3 +9,4 @@ Olá, eu sou Vítor Delgado, estudante no curso NExT da CÉSAR School.
 * Sou formado em Engenharia Civil
 * Meu filme favorito é Rei Leão
 * Curto filmes diversos, animes, seriados
+* Curto jogar algo de leve
