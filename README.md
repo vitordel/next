@@ -7,3 +7,4 @@ Olá, eu sou Vítor Delgado, estudante no curso NExT da CÉSAR School.
 * Eu tenho 26 anos
 * Sou o caçula de três
 * Sou formado em Engenharia Civil
+* Meu filme favorito é Rei Leão
