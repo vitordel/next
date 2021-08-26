@@ -11,3 +11,4 @@ Olá, eu sou Vítor Delgado, estudante no curso NExT da CÉSAR School.
 * Curto filmes diversos, animes, seriados
 * Curto jogar algo de leve
 * Curto suar de algum jeito, jogando bola ou fazendo exercício
+* Metade da feature de editar botão
