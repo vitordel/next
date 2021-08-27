@@ -14,3 +14,4 @@ Olá, eu sou Vítor Delgado, estudante no curso NExT da CÉSAR School.
 * Metade da feature de editar botão
 * Outra metade da feature de editar botão
 * Feature stories no twitter
+* Adiciona ponto final ao storires
